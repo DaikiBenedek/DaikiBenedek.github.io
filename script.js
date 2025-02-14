@@ -63,7 +63,7 @@ const messages = [
     "YAAA PON QUE SÍ",
     "TE MANTENGOOOOOO",
     "Está bien, ya no preguntaré :c",
-    "YAAAAAAA SOLO DILOOOO"
+    "YAAAAAAA SOLO DILOOOOO"
 ];
 
 let messageIndex = 0;
