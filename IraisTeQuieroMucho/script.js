@@ -60,7 +60,7 @@ const messages = [
     "Amor porfavor... :c",
     "Te compro 100 chocolates de Lindor",
     "Te mando 100 McPollos hasta la clínica",
-    "YAAA PON QUE SÍ",
+    "YAAAAAA PON QUE SÍ",
     "TE MANTENGOOOOOO",
     "Está bien, ya no preguntaré :c",
     "YAAAAAAA SOLO DILOOOO"
