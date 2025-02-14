@@ -59,11 +59,11 @@ const messages = [
     "¿SEGURAAAA?",
     "Amor porfavor... :c",
     "Te compro 100 chocolates de Lindor",
-    "AAA",
-    "I will be very sad...",
+    "Te mando 100 McPollos hasta la clínica",
+    "YAAA PON QUE SÍ",
     "TE MANTENGOOOOO",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Está bien, ya no preguntaré :c",
+    "YAAAAAAA SOLO DILOOOO"
 ];
 
 let messageIndex = 0;
